@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Dongle";
+  src: url("Dongle/Dongle-Bold.ttf") format("TrueType")
+}
+
+p {
+  font-family: "Dongle";
+  font-size: 120px;
+  color: pink;
+  text-align: center;
+  background-color: black;
+  text-shadow: 3px 3px 2px white;
+}
+
+.lefttext {
+  font-family: "Dongle";
+  text-align: left;
+  font-size: 80px;
+}
+
+.righttext {
+font-family: "Dongle";
+text-align: right;
+font-size: 80px;
+}

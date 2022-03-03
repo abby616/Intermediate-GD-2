@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "courier new regular";
+  src: url("courier new regular/courier new regular.ttf") format("TrueType")
+}
+
+@font-face {
+  font-family: "mati";
+  src: url("mati/mati regular.ttf") format("TrueType")
+}
+
+.header {
+font-family: "courier new regular";
+text-align: center;
+font-size: 25px;
+}
+
+.smalltext {
+font-family: "courier new regular";
+text-align: left;
+padding-left: 800px;
+font-size: 18px;
+}
+
+.bigtext {
+  font-family: "mati";
+  text-align: right;
+  text-align-last: right;
+  max-width: 950px;
+  font-size: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}

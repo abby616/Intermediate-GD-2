@@ -1,11 +1,11 @@
 @font-face {
   font-family: "courier new regular";
-  src: url("courier new regular/courier new regular.ttf") format("TrueType")
+  src: url("courier new regular/courier new regular.ttf") format("TrueType");
 }
 
 @font-face {
   font-family: "mati regular";
-  src: url("mati regular/mati regular.ttf") format("TrueType")
+  src: url("mati regular/mati regular.ttf") format("TrueType");
 }
 
 .header {

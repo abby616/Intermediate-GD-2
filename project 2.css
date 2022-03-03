@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "mati regular";
-  src: url("mati/mati regular.ttf") format("TrueType")
+  src: url("mati regular/mati regular.ttf") format("TrueType")
 }
 
 .header {
